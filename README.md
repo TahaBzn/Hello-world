@@ -1,2 +1,4 @@
 # hello-world
-First repsitory!
+
+Hi programmers !
+May God be with us ! 
